@@ -34,4 +34,5 @@ A set of advanced SQL queries run against the student/major/course database from
 
 ## Course
 
-Part of [freeCodeCamp's Relational Database Certification](https://www.freecodecamp.org/learn/relational-database/).
+Part of [freeCodeCamp's Relational Database Certification](https://www.freecodecamp.org/learn/relational-databases-v9/).
+
